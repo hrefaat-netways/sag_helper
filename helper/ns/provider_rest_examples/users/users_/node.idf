@@ -3,6 +3,6 @@
 <Values version="2.0">
   <value name="node_type">interface</value>
   <value name="node_subtype">unknown</value>
-  <value name="node_nsName">provider_rest_examples.user</value>
+  <value name="node_nsName">provider_rest_examples.users.users_</value>
   <value name="is_public">false</value>
 </Values>
